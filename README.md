@@ -1,1 +1,1 @@
-# EthosGitWorkshop
+# EthosWorkshop
